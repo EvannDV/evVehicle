@@ -5,8 +5,7 @@ Script :
 Nouveau Menu véhicule : 
 
  Touche N
- Seulement pour les membres de gangs
-
+ 
 Fonctions :
 
  Ouvrir / Fermer toutes les portes
